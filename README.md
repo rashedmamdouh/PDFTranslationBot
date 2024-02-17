@@ -41,4 +41,4 @@ Contributions are welcome! Please follow these guidelines when contributing:
 
 ## Contact
 
-For questions or support, please contact [Rashed Mamdouh](rashedmamdoouh@gmail.com).
+For questions or support, please contact [Rashed Mamdouh](https://github.com/rashedmamdouh)https://github.com/rashedmamdouh).
